@@ -162,10 +162,8 @@ The project demonstration can include the following steps:
 
 ### Step 1: Clone the Repository
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ```bash
-git clone https://github.com/YOUR-USERNAME/Rainfall-Prediction-System.git
+git clone https://github.com/manjot-15058/Rainfall-Prediction-System.git
 cd Rainfall-Prediction-System
 ```
 
