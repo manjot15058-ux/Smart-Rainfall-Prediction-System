@@ -1,0 +1,2 @@
+evaluation,days_evaluated,rain_detection_accuracy,rain_detection_precision,rain_detection_recall,rain_detection_f1,rainfall_amount_mae_mm,rainfall_amount_rmse_mm
+2025 historical direct-forecast baseline,365,0.8876712328767123,0.8319327731092437,0.825,0.8284518828451883,2.5139726027397256,7.996101789973439
